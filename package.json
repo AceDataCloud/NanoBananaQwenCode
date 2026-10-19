@@ -1,0 +1,16 @@
+{
+  "name": "@acedatacloud/nano-banana-by-ace-data-cloud",
+  "version": "0.1.0-rc.1",
+  "private": true,
+  "description": "Generate and edit Nano Banana images through Ace Data Cloud; query the same task for results.",
+  "keywords": [
+    "nano banana",
+    "nanobanana",
+    "image-generation",
+    "image-editing",
+    "qwen-code",
+    "acedatacloud"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/AceDataCloud/NanoBananaQwenCode"
+}
